@@ -1,0 +1,23 @@
+{
+  "name": "notebook",
+  "version": "1.0.0",
+  "description": "这是一本个人前端笔记，记录总结\b前端知识，由浅入深，欢迎pr。",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm t",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfrontzhifei/notebook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webfrontzhifei/notebook/issues"
+  },
+  "homepage": "https://github.com/webfrontzhifei/notebook#readme"
+}
